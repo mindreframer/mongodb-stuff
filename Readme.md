@@ -17,5 +17,5 @@
 
     ajdavis/cluster-profile:
       Demo scripts for setting up and profiling a sharded MongoDB cluster.
-       18 commits, last change: , 8 stars, 0 forks
+       18 commits, last change: , 10 stars, 0 forks
 <!-- PROJECTS_LIST_END -->
